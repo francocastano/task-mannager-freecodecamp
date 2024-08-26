@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/task-mannager-freecodecamp/static/css/main.ccdf350a.css",
+    "main.css": "/task-mannager-freecodecamp/static/css/main.fa53e390.css",
     "main.js": "/task-mannager-freecodecamp/static/js/main.7c272cad.js",
     "static/media/freecodecamp-logo.png": "/task-mannager-freecodecamp/static/media/freecodecamp-logo.5486935b905c7949600c.png",
     "index.html": "/task-mannager-freecodecamp/index.html",
-    "main.ccdf350a.css.map": "/task-mannager-freecodecamp/static/css/main.ccdf350a.css.map",
+    "main.fa53e390.css.map": "/task-mannager-freecodecamp/static/css/main.fa53e390.css.map",
     "main.7c272cad.js.map": "/task-mannager-freecodecamp/static/js/main.7c272cad.js.map"
   },
   "entrypoints": [
-    "static/css/main.ccdf350a.css",
+    "static/css/main.fa53e390.css",
     "static/js/main.7c272cad.js"
   ]
 }
